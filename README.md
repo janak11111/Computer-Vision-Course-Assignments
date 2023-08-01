@@ -1,6 +1,3 @@
-# Computer-Vision-Course-Assignments
-
-
 # Assigment 1
 
 **CNN Training on CIFAR 10 <br />
@@ -22,6 +19,6 @@ LIDAR normals on LIDAR images
 
 # Assigment 3
 
-**Moving Object Tracking 
+**Moving Object Tracking <br >
 Multiple Object Tracking (MORT)**
 
